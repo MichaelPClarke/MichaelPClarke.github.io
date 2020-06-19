@@ -5,13 +5,12 @@ body {
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 40px;
 }
 
 h3 {
   font-size: 30px;
-  color: green;
-}
+  }
 
 .dropbtn {
   background-color: #b3b5bb;
@@ -121,7 +120,7 @@ h3 {
 }
 
 .footer {
-  position: static;
+  position: relative;
   left: 0;
   bottom: 0;
   width: 100%;
